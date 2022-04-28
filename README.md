@@ -7,3 +7,4 @@ In the case for iOS you'll also need to run pod install on the ios folder to dow
 
 Similar steps may be found in this video: https://www.youtube.com/watch?v=AcFnd-6hSew
 
+Note: Don't forget to set the development team on xCode to build for iOS.
