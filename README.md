@@ -1,16 +1,9 @@
 # demo_air_brother_prime
 
-A new Flutter project.
+A new Flutter show casing how to use the air_brother package. This is a more recent project setup than Demo-Air-Brother which will be pahsed out in the near future. 
 
-## Getting Started
+## iOS Setup
+In the case for iOS you'll also need to run pod install on the ios folder to download the iOS scanner dependencies. 
 
-This project is a starting point for a Flutter application.
+Similar steps may be found in this video: https://www.youtube.com/watch?v=AcFnd-6hSew
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
