@@ -1,0 +1,35 @@
+PODS:
+  - air_brother (0.0.1):
+    - BRScanKit
+    - Flutter
+  - BRScanKit (0.2.0)
+  - Flutter (1.0.0)
+  - path_provider_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - air_brother (from `.symlinks/plugins/air_brother/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - BRScanKit
+
+EXTERNAL SOURCES:
+  air_brother:
+    :path: ".symlinks/plugins/air_brother/ios"
+  Flutter:
+    :path: Flutter
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+
+SPEC CHECKSUMS:
+  air_brother: f15597c3fa23769c53ae3dec84d29223691a5ce7
+  BRScanKit: 44e043cf85a16327db93ff3952b1732ee99b13ff
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
